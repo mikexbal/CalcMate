@@ -1,2 +1,2 @@
-# CalcMate
-CalcMate is a basic Python calculator for addition, subtraction, multiplication, and division. It features an easy-to-use interface and provides quick solutions to simple math problems.
+# CalcMate 🤖
+CalcMate is a straightforward Python-based calculator designed to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. With an easy-to-use interface, CalcMate helps you solve simple math problems efficiently.
